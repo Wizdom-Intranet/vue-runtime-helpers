@@ -1,1 +1,0 @@
-declare var __VUE_SSR_CONTEXT__: any
